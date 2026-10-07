@@ -1,0 +1,39 @@
+html {
+  height: 100%;
+  background: #bfa756;
+}
+
+body {
+  color: white;
+  font-family: Georgia;
+  width: 50%;
+  max-width: 800px;
+  text-align: center;
+  margin: auto;
+}
+
+h1 {
+  font-size: 20px;
+  width: 300px;
+  margin: auto;
+  margin-top: 100px;
+  text-align: left;
+  font-weight: normal;
+}
+
+div {
+  margin: auto;
+  margin-top:50px;
+  width: 300px;
+  text-align: left;
+}
+
+a {
+  color: white;
+}
+
+marquee {
+  width: 300px;
+  scrollamount: 0.5;
+  scrolldelay: 100;
+}
